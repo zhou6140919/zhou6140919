@@ -1,11 +1,13 @@
+[![MasterHead](https://www.fleetscience.org/sites/default/files/images/customer%20ai.gif)](zhou6140919.github.io)
 <h1 align="center">Hi 👋, I'm Zhou Tong</h1>
 <h3 align="center">A passionate NLP student from China</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhou6140919&label=Profile%20views&color=0e75b6&style=flat" alt="zhou6140919" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tz20000614" target="blank"><img src="https://img.shields.io/twitter/follow/tz20000614?logo=twitter&style=for-the-badge" alt="tz20000614" /></a> </p>
 
-- 🔭 I’m currently working on **DualEE**
+- 🔭 I’m currently working on **Dual Learning for Event Extraction**
 
 - 🌱 I’m currently learning **Multi-tasks Pre-trained Models**
 
