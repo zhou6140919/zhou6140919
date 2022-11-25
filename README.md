@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Multi-tasks Pre-trained Models**
 
-- 👨‍💻 All of my projects are available at [zhou6140919.github.io](zhou6140919.github.io)
+- 👨‍💻 All of my projects are available at [zhou6140919.github.io/projects/](zhou6140919.github.io/projects/)
 
 - 📝 I regularly write articles on [zhou6140919.github.io/blog/](zhou6140919.github.io/blog/)
 
@@ -21,14 +21,9 @@
 
 - ⚡ Fun fact **I am shy to strangers.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tz20000614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tz20000614" height="30" width="40" /></a>
-<a href="/https://zhou6140919.github.io/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zhou6140919.github.io/blog/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
