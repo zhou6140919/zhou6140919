@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/tz20000614" target="blank"><img src="https://img.shields.io/twitter/follow/tz20000614?logo=twitter&style=for-the-badge" alt="tz20000614" /></a> </p>
 
-- 🔭 I’m currently working on **Dual Learning for Event Extraction**
+- 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **Multi-tasks Pre-trained Models**
+- 🌱 I’m currently learning **Multi-tasks & Zero-Shot Pre-training Models**, **Event Extraction Algorithms**
 
-- 👨‍💻 All of my projects are available at [zhou6140919.github.io/projects/](zhou6140919.github.io/projects/)
+- 👨‍💻 All of my projects are available at [https://blog.zhoutong.website/](https://blog.zhoutong.website/)
 
-- 📝 I regularly write articles on [zhou6140919.github.io/blog/](zhou6140919.github.io/blog/)
+- 📝 I regularly write articles on [https://blog.zhoutong.website/](https://blog.zhoutong.website/)
 
 - 💬 Ask me about **Pytorch, Python, etc.**
 
-- 📫 How to reach me **zhou1534643901@gmail.com**
+- 📫 How to reach me **zhou1534643901@gmail.com** or **1534643901@qq.com**
 
-- 📄 Know about my experiences [https://zhou6140919.github.io/about/](https://zhou6140919.github.io/about/)
+- 📄 Know about my experiences [https://blog.zhoutong.website/about/](https://blog.zhoutong.website/about/)
 
 - ⚡ Fun fact **I am shy to strangers.**
 
